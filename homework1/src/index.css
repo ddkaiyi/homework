@@ -1,0 +1,29 @@
+
+#title{
+  margin-left: 0px;
+}
+h1{
+  text-align: center;
+}
+.Resturant{
+  width: 300px;
+  height: 300px;
+  margin-left: 20px;
+  background-color:bisque;
+  text-align: center;
+  float: left;
+  margin-top: 20px;
+}
+.Resturant img{
+  width: 250px;
+  margin-left: 10px;
+
+}
+.Resturant h5{
+text-align: center;
+margin-top: -5px;
+}
+#central{
+  margin-left: 20px;
+}
+
